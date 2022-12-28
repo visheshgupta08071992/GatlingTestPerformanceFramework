@@ -1,0 +1,10 @@
+{
+  "simulation": "com.GatlingPerformanceFramework.simulation.AddUserSimulationWith10ConstantUserPerSec",
+  "simulationId": "addusersimulationwith10constantuserpersec",
+  "start": 1672222633753,
+  "description": "TestRun",
+  "scenarios": ["Add User Scenario"],
+  "assertions": [
+
+  ]
+}
